@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amy",
+      "teamId": 1
+    },
+    {
+      "id": 2,
+      "name": "Bridget",
+      "teamId": 2
+    },
+    {
+      "id": 3,
+      "name": "Carolina",
+      "teamId": 2
+    },
+    {
+      "id": 4,
+      "name": "Christa",
+      "teamId": 1
+    },
+    {
+      "id": 5,
+      "name": "Cindy",
+      "teamId": 2
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "Team One"
+    },
+    {
+      "id": 2,
+      "name": "Team Two"
+    }
+  ]
+}
